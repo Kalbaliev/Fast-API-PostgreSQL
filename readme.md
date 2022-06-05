@@ -70,6 +70,6 @@ It is located : `localhost:8000/docs` url
 
 # Pgadmin
 
-It is located : `localhost:5050` url
+It is located : `localhost:5050` url | Email: admin@admin.com Password: mysecretpassword (from `docker-compose.yml` environments variables)
 
 ![Pgadmin](https://i.ibb.co/P1xCYF1/pgadmin.png)
